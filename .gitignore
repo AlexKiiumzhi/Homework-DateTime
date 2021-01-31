@@ -1,0 +1,30 @@
+HELP.md
+
+target/
+out/
+
+### IntelliJ IDEA ###
+.idea/
+*.idea
+*.iws
+*.iml
+*.log
+*.ipr
+*.cmd
+*.file
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+.mvnw
+.mvn
+mvn/
+
+
